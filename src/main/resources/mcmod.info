@@ -1,0 +1,16 @@
+[
+{
+  "modid": "envirotemp",
+  "name": "EnviroTemp",
+  "description": "Temperature system based on EnviroMine",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Funwayguy", "GenDeathrow"],
+  "credits": "Timbucktato & ThisLooksFun",
+  "logoFile": "title.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
